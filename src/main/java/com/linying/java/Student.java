@@ -2,6 +2,6 @@ package com.linying.java;
 
 public class Student {
 public static void main(String[] args) {
-	System.out.println("呵呵");
+	System.out.println("呵呵88");
 }
 }
